@@ -7,7 +7,6 @@ const navItems = [
   { name: "Servicios", id: "servicios" },
   { name: "Historia", id: "historia" },
   { name: "Nuestros Clientes", id: "clientes" },
-  { name: "ReglaMar IA", id: "reglamar" },
   { name: "Cotizar", id: "cotizar" },
 ];
 
